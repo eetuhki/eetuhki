@@ -1,4 +1,4 @@
-![Eetu Laine Banner](https://github.com/user-attachments/assets/7f098fd0-a5fb-4732-99cd-cbba6a631a6c)
+![Eetu Laine Banner](https://github.com/eetulaine/eetulaine/blob/main/eetu_laine_banner01.gif)
 
 ## Hey, I'm Eetu 
 I'm a software developer/programmer finishing my studies at [Hive Helsinki](https://www.hive.fi/en/) (part of the worldwide [42 Network](https://www.42network.org/)).
