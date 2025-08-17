@@ -4,7 +4,7 @@ I'm a software developer/programmer finishing my studies at [Hive Helsinki](http
 
 Feel free to connect!  
   
-![LinkedIn icon](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn icon](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eetulaine/)
 
 ### Tech skills
 
