@@ -1,6 +1,9 @@
 ![Eetu Laine Banner](https://github.com/eetuhki/eetuhki/blob/main/eetu_laine_banner.png?raw=true)
 ## Hey, I'm Eetu 
-I'm an aspiring software developer/programmer finishing my studies at [Hive Helsinki](https://www.hive.fi/en/) (part of the worldwide [42 Network](https://www.42network.org/) coding schools).
+I'm a software developer/programmer finishing my studies at [Hive Helsinki](https://www.hive.fi/en/) (part of the worldwide [42 Network](https://www.42network.org/)).
+
+Feel free to connect!
+![LinkedIn icon](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### Tech skills
 
