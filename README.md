@@ -1,3 +1,4 @@
+![Eetu Laine Banner](https://github.com/eetuhki/eetuhki/blob/main/eetu_laine_banner.png?raw=true)
 ## Hey, I'm Eetu 
 I'm an aspiring software developer/programmer finishing my studies at [Hive Helsinki](https://www.hive.fi/en/) (part of the worldwide [42 Network](https://www.42network.org/) coding schools).
 
